@@ -143,3 +143,11 @@ body {
 .social-icons a:hover {
   color: red;
 }
+
+.item .color {
+  color: red;
+}
+
+.item .overline {
+  text-decoration-line: line-through;
+}
